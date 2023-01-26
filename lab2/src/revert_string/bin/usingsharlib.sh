@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=$(pwd)/bin/shared bin/use-shared-library $1
